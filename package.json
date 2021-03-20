@@ -193,7 +193,7 @@
     "mime-types": "^2.1.16",
     "ms": "^2.0.0",
     "node-env-flag": "0.1.0",
-    "node-fetch": "^1.7.2",
+    "node-fetch": "^2.6.1",
     "oy-vey": "^0.11.0",
     "prop-types": "^15.5.10",
     "raven": "^2.4.2",
